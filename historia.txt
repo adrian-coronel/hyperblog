@@ -1,3 +1,2 @@
-Hola este es un mensaje para el uso de git
-
-<inicio del trabajo>
+Hola este es un mensaje para el uso de git 
+Hola que tal
