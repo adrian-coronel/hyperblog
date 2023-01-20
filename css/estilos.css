@@ -18,3 +18,13 @@ body {
 #container h1{
   font-size: 20px;
 }
+
+#cabecera {
+  display: flex;
+  align-items: center;
+}
+
+#container img{
+  width: 25px;
+  margin: 0 7px;
+}
