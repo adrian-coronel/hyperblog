@@ -18,3 +18,29 @@ body {
 #container h1{
   font-size: 20px;
 }
+
+#cabecera {
+  background: #33A;
+  box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
+  display: flex;
+  align-items: center;
+}
+
+#container img{
+  width: 25px;
+  margin: 0 7px;
+}
+
+#post div{
+  display: flex;
+  justify-content: center;
+}
+
+#post div img{
+  width: 300px;
+  box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.55);
+}
