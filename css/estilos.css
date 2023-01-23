@@ -28,11 +28,20 @@ body {
   padding: 0.5em;
   display: flex;
   align-items: center;
+  justify-content: space-between
+}
+#cabecera div{
+  display: flex;
+  align-items: center;
 }
 
 #container img{
   width: 25px;
   margin: 0 7px;
+}
+#container img:hover{
+  transition: all 0.3s ease-in;
+  transform: translate(-5px,-6px);
 }
 
 #post div{
@@ -43,4 +52,20 @@ body {
 #post div img{
   width: 300px;
   box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.55);
+}
+
+#cabecera ul{
+  display: flex;
+  font-size: 0.85em;
+  padding: 0;
+  text-decoration: none;
+}
+#cabecera ul li{
+  text-decoration: none;
+  list-style: none;
+  margin-right: 15px;
+}
+#cabecera ul li:hover{
+  color: rgb(113, 220, 184);
+  cursor: pointer;
 }
