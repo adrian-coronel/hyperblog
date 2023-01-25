@@ -10,5 +10,6 @@ Un blog increible con git y github.
 * Trucos muy locos del profesor 
 * Las personalidades múltiples de Freddy
 * Las personalidades múltiples de Freddy
+* Creado por el mismo Platzi Team
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor entra a mi [**repositorio**](https://github.com/adrian-coronel/hyperblog)
