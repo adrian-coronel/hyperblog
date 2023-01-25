@@ -12,5 +12,6 @@ Un blog increible con git y github.
 * Las personalidades múltiples de Freddy
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en windows, linux y mac
+* Disponibles para todas las versiones
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor entra a mi [**repositorio**](https://github.com/adrian-coronel/hyperblog)
